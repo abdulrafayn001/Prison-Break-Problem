@@ -1,0 +1,19 @@
+﻿Build started 7/6/2020 11:10:22 AM.
+     1>Project "C:\Users\Abdulrafay\OneDrive\Documents\DSA - ALL\LAB 10\Q5\Grid Graph\Grid Graph\Grid Graph.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt GridGraph.cpp PrisonBreak.cpp
+         PrisonBreak.cpp
+     1>c:\users\abdulrafay\onedrive\documents\dsa - all\lab 10\q5\grid graph\grid graph\prisonbreak.cpp(278): warning C4018: '<' : signed/unsigned mismatch
+         GridGraph.cpp
+     1>c:\users\abdulrafay\onedrive\documents\dsa - all\lab 10\q5\grid graph\grid graph\gridgraph.cpp(31): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\abdulrafay\onedrive\documents\dsa - all\lab 10\q5\grid graph\grid graph\gridgraph.cpp(33): warning C4018: '<' : signed/unsigned mismatch
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Abdulrafay\OneDrive\Documents\DSA - ALL\LAB 10\Q5\Grid Graph\Debug\Grid Graph.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Abdulrafay\OneDrive\Documents\DSA - ALL\LAB 10\Q5\Grid Graph\Debug\Grid Graph.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Abdulrafay\OneDrive\Documents\DSA - ALL\LAB 10\Q5\Grid Graph\Debug\Grid Graph.lib" /MACHINE:X86 Debug\GridGraph.obj
+         Debug\PrisonBreak.obj
+         Grid Graph.vcxproj -> C:\Users\Abdulrafay\OneDrive\Documents\DSA - ALL\LAB 10\Q5\Grid Graph\Debug\Grid Graph.exe
+     1>Done Building Project "C:\Users\Abdulrafay\OneDrive\Documents\DSA - ALL\LAB 10\Q5\Grid Graph\Grid Graph\Grid Graph.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:10.58
